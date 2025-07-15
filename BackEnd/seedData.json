@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "nazov": "Projekt 1",
+    "kategoria": "sociálne",
+    "popis": "Popis projektu číslo 1, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://cdn.pixabay.com/photo/2025/07/07/10/19/eastern-grey-kangaroos-9700777_1280.jpg",
+    "sumaCiel": 5200,
+    "sumaZiskana": 2301,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Peter",
+        "priezvisko": "Urban",
+        "sumaDarovana": 770
+      },
+      {
+        "id": 2,
+        "meno": "Eva",
+        "priezvisko": "Tóthová",
+        "sumaDarovana": 490
+      },
+      {
+        "id": 3,
+        "meno": "Ján",
+        "priezvisko": "Novák",
+        "sumaDarovana": 383
+      },
+      {
+        "id": 4,
+        "meno": "Tomáš",
+        "priezvisko": "Kováčová",
+        "sumaDarovana": 658
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nazov": "Projekt 2",
+    "kategoria": "environmentálne",
+    "popis": "Popis projektu číslo 2, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok2.jpg",
+    "sumaCiel": 5437,
+    "sumaZiskana": 2347,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Katarína",
+        "priezvisko": "Kováčová",
+        "sumaDarovana": 695
+      },
+      {
+        "id": 2,
+        "meno": "Ján",
+        "priezvisko": "Szabó",
+        "sumaDarovana": 511
+      },
+      {
+        "id": 3,
+        "meno": "Zuzana",
+        "priezvisko": "Kováčová",
+        "sumaDarovana": 358
+      },
+      {
+        "id": 4,
+        "meno": "Ján",
+        "priezvisko": "Varga",
+        "sumaDarovana": 783
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nazov": "Projekt 3",
+    "kategoria": "vzdelávacie",
+    "popis": "Popis projektu číslo 3, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok3.jpg",
+    "sumaCiel": 5224,
+    "sumaZiskana": 760,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Tomáš",
+        "priezvisko": "Szabó",
+        "sumaDarovana": 760
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nazov": "Projekt 4",
+    "kategoria": "zdravotné",
+    "popis": "Popis projektu číslo 4, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok4.jpg",
+    "sumaCiel": 3987,
+    "sumaZiskana": 568,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Zuzana",
+        "priezvisko": "Tóthová",
+        "sumaDarovana": 568
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nazov": "Projekt 5",
+    "kategoria": "komunitné",
+    "popis": "Popis projektu číslo 5, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok5.jpg",
+    "sumaCiel": 6579,
+    "sumaZiskana": 1618,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Peter",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 690
+      },
+      {
+        "id": 2,
+        "meno": "Ján",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 928
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nazov": "Projekt 6",
+    "kategoria": "humanitárne",
+    "popis": "Popis projektu číslo 6, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok6.jpg",
+    "sumaCiel": 5661,
+    "sumaZiskana": 1529,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Zuzana",
+        "priezvisko": "Kováčová",
+        "sumaDarovana": 916
+      },
+      {
+        "id": 2,
+        "meno": "Marek",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 613
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nazov": "Projekt 7",
+    "kategoria": "environmentálne",
+    "popis": "Popis projektu číslo 7, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok7.jpg",
+    "sumaCiel": 887,
+    "sumaZiskana": 166,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Peter",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 166
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nazov": "Projekt 8",
+    "kategoria": "technologické",
+    "popis": "Popis projektu číslo 8, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok8.jpg",
+    "sumaCiel": 3894,
+    "sumaZiskana": 731,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Zuzana",
+        "priezvisko": "Tóthová",
+        "sumaDarovana": 243
+      },
+      {
+        "id": 2,
+        "meno": "Ján",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 488
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nazov": "Projekt 9",
+    "kategoria": "sociálne",
+    "popis": "Popis projektu číslo 9, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok9.jpg",
+    "sumaCiel": 1724,
+    "sumaZiskana": 185,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Marek",
+        "priezvisko": "Novák",
+        "sumaDarovana": 185
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nazov": "Projekt 10",
+    "kategoria": "komunitné",
+    "popis": "Popis projektu číslo 10, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok10.jpg",
+    "sumaCiel": 2582,
+    "sumaZiskana": 785,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Ján",
+        "priezvisko": "Varga",
+        "sumaDarovana": 194
+      },
+      {
+        "id": 2,
+        "meno": "Marek",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 591
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nazov": "Projekt 11",
+    "kategoria": "vzdelávacie",
+    "popis": "Popis projektu číslo 11, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok11.jpg",
+    "sumaCiel": 5868,
+    "sumaZiskana": 1278,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Tomáš",
+        "priezvisko": "Tóthová",
+        "sumaDarovana": 619
+      },
+      {
+        "id": 2,
+        "meno": "Ján",
+        "priezvisko": "Varga",
+        "sumaDarovana": 659
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nazov": "Projekt 12",
+    "kategoria": "športové",
+    "popis": "Popis projektu číslo 12, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok12.jpg",
+    "sumaCiel": 2854,
+    "sumaZiskana": 2269,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Zuzana",
+        "priezvisko": "Urban",
+        "sumaDarovana": 483
+      },
+      {
+        "id": 2,
+        "meno": "Ján",
+        "priezvisko": "Novák",
+        "sumaDarovana": 560
+      },
+      {
+        "id": 3,
+        "meno": "Peter",
+        "priezvisko": "Szabó",
+        "sumaDarovana": 475
+      },
+      {
+        "id": 4,
+        "meno": "Peter",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 751
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nazov": "Projekt 13",
+    "kategoria": "environmentálne",
+    "popis": "Popis projektu číslo 13, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok13.jpg",
+    "sumaCiel": 4696,
+    "sumaZiskana": 153,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Eva",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 153
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nazov": "Projekt 14",
+    "kategoria": "sociálne",
+    "popis": "Popis projektu číslo 14, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok14.jpg",
+    "sumaCiel": 5352,
+    "sumaZiskana": 1942,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Tomáš",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 841
+      },
+      {
+        "id": 2,
+        "meno": "Ján",
+        "priezvisko": "Urban",
+        "sumaDarovana": 725
+      },
+      {
+        "id": 3,
+        "meno": "Peter",
+        "priezvisko": "Szabó",
+        "sumaDarovana": 376
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nazov": "Projekt 15",
+    "kategoria": "kultúrne",
+    "popis": "Popis projektu číslo 15, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok15.jpg",
+    "sumaCiel": 1355,
+    "sumaZiskana": 359,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Marek",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 359
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nazov": "Projekt 16",
+    "kategoria": "iné",
+    "popis": "Popis projektu číslo 16, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok16.jpg",
+    "sumaCiel": 6047,
+    "sumaZiskana": 1965,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Eva",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 549
+      },
+      {
+        "id": 2,
+        "meno": "Eva",
+        "priezvisko": "Kováčová",
+        "sumaDarovana": 265
+      },
+      {
+        "id": 3,
+        "meno": "Zuzana",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 405
+      },
+      {
+        "id": 4,
+        "meno": "Marek",
+        "priezvisko": "Varga",
+        "sumaDarovana": 746
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nazov": "Projekt 17",
+    "kategoria": "vzdelávacie",
+    "popis": "Popis projektu číslo 17, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok17.jpg",
+    "sumaCiel": 3855,
+    "sumaZiskana": 698,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Ján",
+        "priezvisko": "Varga",
+        "sumaDarovana": 321
+      },
+      {
+        "id": 2,
+        "meno": "Marek",
+        "priezvisko": "Szabó",
+        "sumaDarovana": 377
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nazov": "Projekt 18",
+    "kategoria": "športové",
+    "popis": "Popis projektu číslo 18, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok18.jpg",
+    "sumaCiel": 4822,
+    "sumaZiskana": 1874,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Lucia",
+        "priezvisko": "Novák",
+        "sumaDarovana": 656
+      },
+      {
+        "id": 2,
+        "meno": "Tomáš",
+        "priezvisko": "Szabó",
+        "sumaDarovana": 809
+      },
+      {
+        "id": 3,
+        "meno": "Peter",
+        "priezvisko": "Horváth",
+        "sumaDarovana": 409
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nazov": "Projekt 19",
+    "kategoria": "kultúrne",
+    "popis": "Popis projektu číslo 19, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok19.jpg",
+    "sumaCiel": 5905,
+    "sumaZiskana": 1567,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Zuzana",
+        "priezvisko": "Urban",
+        "sumaDarovana": 827
+      },
+      {
+        "id": 2,
+        "meno": "Katarína",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 740
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nazov": "Projekt 20",
+    "kategoria": "kultúrne",
+    "popis": "Popis projektu číslo 20, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok20.jpg",
+    "sumaCiel": 2873,
+    "sumaZiskana": 152,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Peter",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 152
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nazov": "Projekt 21",
+    "kategoria": "humanitárne",
+    "popis": "Popis projektu číslo 21, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok21.jpg",
+    "sumaCiel": 2889,
+    "sumaZiskana": 480,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Tomáš",
+        "priezvisko": "Kováčová",
+        "sumaDarovana": 350
+      },
+      {
+        "id": 2,
+        "meno": "Katarína",
+        "priezvisko": "Varga",
+        "sumaDarovana": 130
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nazov": "Projekt 22",
+    "kategoria": "komunitné",
+    "popis": "Popis projektu číslo 22, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok22.jpg",
+    "sumaCiel": 3433,
+    "sumaZiskana": 650,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Ján",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 435
+      },
+      {
+        "id": 2,
+        "meno": "Eva",
+        "priezvisko": "Novák",
+        "sumaDarovana": 215
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nazov": "Projekt 23",
+    "kategoria": "kultúrne",
+    "popis": "Popis projektu číslo 23, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok23.jpg",
+    "sumaCiel": 6084,
+    "sumaZiskana": 3058,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Eva",
+        "priezvisko": "Varga",
+        "sumaDarovana": 701
+      },
+      {
+        "id": 2,
+        "meno": "Marek",
+        "priezvisko": "Novák",
+        "sumaDarovana": 669
+      },
+      {
+        "id": 3,
+        "meno": "Tomáš",
+        "priezvisko": "Novák",
+        "sumaDarovana": 773
+      },
+      {
+        "id": 4,
+        "meno": "Lucia",
+        "priezvisko": "Kováčová",
+        "sumaDarovana": 915
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nazov": "Projekt 24",
+    "kategoria": "kultúrne",
+    "popis": "Popis projektu číslo 24, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok24.jpg",
+    "sumaCiel": 4297,
+    "sumaZiskana": 381,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Peter",
+        "priezvisko": "Varga",
+        "sumaDarovana": 381
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nazov": "Projekt 25",
+    "kategoria": "humanitárne",
+    "popis": "Popis projektu číslo 25, ktorý sa venuje dôležitej téme.",
+    "obrazok": "https://example.com/obrazok25.jpg",
+    "sumaCiel": 5309,
+    "sumaZiskana": 1615,
+    "darcovia": [
+      {
+        "id": 1,
+        "meno": "Tomáš",
+        "priezvisko": "Poláková",
+        "sumaDarovana": 989
+      },
+      {
+        "id": 2,
+        "meno": "Peter",
+        "priezvisko": "Novák",
+        "sumaDarovana": 164
+      },
+      {
+        "id": 3,
+        "meno": "Lucia",
+        "priezvisko": "Tóthová",
+        "sumaDarovana": 462
+      }
+    ]
+  }
+]
